@@ -1,89 +1,65 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Owen Morales
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+Engineer, Data Scientis, Entusiast.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="morales.owen@icloud.com">morales.owen@icloud.com</a>
+| <a href="https://omora14.github.io/owendevhub/portfolio/">Portfolio</a>
 </div>
 
+### Specialized
 
-## Currently
+ML/DL, Analysis, Data Visualization, Web Development, Cloud Computing, Backend
 
-Standing on the shoulders of giants
+## Experience
 
-### Specialized in
+`May 2024 – Present`
+__BYU__, Rexburg, ID  
+_Software Engineer_
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Automated tasks with TypeScript and Java, saving 5,000 staff hours annually, deployed on Heroku.
+- Created tools with JavaScript, Bootstrap, Node.js, and iPaaS, saving $52,000 in labor costs.
+- Managed 100+ projects with RESTful APIs, Spring Boot, and Express.js, enhancing the experience for 50,000+ users.
 
+`Sep 2023 – May 2024`
+__CCS Global Tech__, Poway, CA  
+_Data Lead_
 
-### Research interests
+- Optimized data operations using SQL, Power BI, Snowflake, ETL, .NET, and Python, resulting in cost savings of $100,000 p/y.
+- Designed and deployed a CRM with R reports, boosting staff productivity by 34%.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Sep 2023 – May 2024`
+__Twilio__, Remote, CA  
+_Software Engineer_
 
+- Improved UX/UI by implementing new features and fixing bugs using JavaScript and Java, contributing to 13% of KPI improvements.
+- Reduced security incidents by 3% through the application of OWASP standards.
+- Enhanced SaaS and web service performance by 15%, resulting in faster load times.
+
+`Feb 2022 – Sep 2023`
+__Verizon__, Remote, NY  
+_Engineer Lead_
+
+- Led 12 engineers at Verizon's Visible, reducing project timelines by 34% while serving as TP for 1 year.
+- Integrated MTAS/MSAT, Orchestration Plan (OP), and Salesforce, saving $148,000 annually.
+- Developed C#/ASP .NET tool for JIRA ticket management, boosting team efficiency by 78%.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
+`2022 - Present`
+__Brigham Young University.__
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2024`
+Merit Scholarship, *BYU*, Idaho, USA
 
-Associate, *French Academy of Science*, Paris, France
+`2022`
+TP (Top Performer), *Verizon*, New York, USA
 
+### Footer
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: Oct 2024
