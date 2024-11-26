@@ -226,44 +226,30 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Owen Morales",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Engineer, Data Scientis, Entusiast."
   },
   {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Owen Morales",
+    "section": "Experience",
+    "text": "Experience\nMay 2024 – Present BYU, Rexburg, ID\nSoftware Engineer\n\nAutomated tasks with TypeScript and Java, saving 5,000 staff hours annually, deployed on Heroku.\nCreated tools with JavaScript, Bootstrap, Node.js, and iPaaS, saving $52,000 in labor costs.\nManaged 100+ projects with RESTful APIs, Spring Boot, and Express.js, enhancing the experience for 50,000+ users.\n\nSep 2023 – May 2024 CCS Global Tech, Poway, CA\nData Lead\n\nOptimized data operations using SQL, Power BI, Snowflake, ETL, .NET, and Python, resulting in cost savings of $100,000 p/y.\nDesigned and deployed a CRM with R reports, boosting staff productivity by 34%.\n\nSep 2023 – May 2024 Twilio, Remote, CA\nSoftware Engineer\n\nImproved UX/UI by implementing new features and fixing bugs using JavaScript and Java, contributing to 13% of KPI improvements.\nReduced security incidents by 3% through the application of OWASP standards.\nEnhanced SaaS and web service performance by 15%, resulting in faster load times.\n\nFeb 2022 – Sep 2023 Verizon, Remote, NY\nEngineer Lead\n\nLed 12 engineers at Verizon’s Visible, reducing project timelines by 34% while serving as TP for 1 year.\nIntegrated MTAS/MSAT, Orchestration Plan (OP), and Salesforce, saving $148,000 annually.\nDeveloped C#/ASP .NET tool for JIRA ticket management, boosting team efficiency by 78%."
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "title": "Owen Morales",
+    "section": "Education",
+    "text": "Education\n2022 - Present Brigham Young University."
   },
   {
     "objectID": "resume.html#awards",
     "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "title": "Owen Morales",
+    "section": "Awards",
+    "text": "Awards\n2024 Merit Scholarship, BYU, Idaho, USA\n2022 TP (Top Performer), Verizon, New York, USA\n\nFooter\nLast updated: Oct 2024"
   },
   {
     "objectID": "exploration.html",
